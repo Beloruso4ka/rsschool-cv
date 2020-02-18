@@ -1,0 +1,31 @@
+
+
+.content {
+  /* Позиционирование */
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+
+  /* Блочная модель */
+  display: block;
+  float: right;
+  width: 1024px;
+  margin: 10px;
+  padding: 10px;
+
+  /* Типографика */
+  font-style: normal;
+  font-size: 13px;
+  line-height: 1.5;
+  font-family: "Arial", sans-serif;
+  color: #333333;
+
+  /* Оформление */
+  border-radius: 3px;
+  opacity: 1;
+
+}
+
